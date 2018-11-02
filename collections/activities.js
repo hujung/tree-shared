@@ -1,6 +1,7 @@
 import SimpleSchema from 'simpl-schema';
 
 // Placeholder database collection
+// added
 Activities = new Mongo.Collection('activities');
 
 const Schemas = {};
